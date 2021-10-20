@@ -1,0 +1,8 @@
+Các đặc trưng của python :
+-Là ngôn ngữ lập trình miễn phí
+-Là ngôn ngữ lập trình dễ hiểu, cú pháp đơn giản
+-Được sử dụng và thiết kế trên các ứng dụng nổi tiếng . VD : ins, ytb,...
+-Có thể chạy trên hầu hết các hệ điều hành
+-Có ưu thế tuyệt đối trong phát triển AI
+-Thuộc ngôn ngữ lập trình tự dịch, ngôn ngữ lập trình hướng đối tượng
+-Có nguồn tài liệu tham khảo phong phú
